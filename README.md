@@ -13,6 +13,12 @@ Este proyecto detecta animales a partir de una imagen cargada o de la cámara we
 
 ---
 
+## 🗄️ Demo
+
+> ![Demo](Demo-animals.jpg)
+
+---
+
 ## 🚀 Tecnologías utilizadas
 
 * HTML5 + JavaScript
@@ -28,6 +34,7 @@ Este proyecto detecta animales a partir de una imagen cargada o de la cámara we
 📆 Animal-Detector
 ├── index.html
 ├── script.js
+├── Demo-animals.jpg
 └── README.md
 ```
 
